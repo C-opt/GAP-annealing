@@ -1,0 +1,8 @@
+
+1) Compile
+-> gcc gap.c -lm 
+
+2) Run
+-> cat data/c05100 | ./a.out timelim 300
+-> cat data/e40400 | ./a.out timelim 300
+-> cat data/(your dataset) | ./a.out timelim 300
